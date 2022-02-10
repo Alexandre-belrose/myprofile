@@ -1,0 +1,71 @@
+@import url("components/bouton.css");
+
+img{
+    border-radius: 50%;
+}
+
+div{padding: 0px;
+    text-align:center;
+   color: rgb(61, 39, 189);
+   
+}
+
+h1{color: rgb(61, 39, 189);}
+
+head{
+    font-family: 'Lato', sans-serif;
+     
+    }
+
+body{
+  background-color: rgb(247, 247, 247);
+  
+}
+p{
+        background-color: ;
+        border: 1px solid black;
+        margin: 12px 400px;
+        padding: 2%;
+     }
+      
+.p2{
+        padding: 200px;
+     }
+      
+.p3{
+        padding-top: 20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+     }
+*.primary_form {
+  text-align:center;
+}
+
+.input_form {
+  margin-top: 12px;
+  padding: 8px 16px;
+  border-radius: 30%;
+ 
+}
+
+.bouton_envoyer{
+  margin: 12px 0px;
+}
+
+#main_container{
+  margin: 12px 20px;
+}
+
+.pdp{
+  text-align: center;
+  
+}
+
+svg{
+margin: 0%;
+}
+
+.insta{
+border-top: 100px;
+}
